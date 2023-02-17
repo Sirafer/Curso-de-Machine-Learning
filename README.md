@@ -19,3 +19,9 @@ SpaceX - 3 (cuaderno de trabajo): Análisis de datos utilizando SQL, Subir los d
 Introducción a Machine Learning con Scikit (cuaderno de trabajo): Introducción a Machine Learning con Scikit-Learn, ¿Cómo mejorar nuestro modelo?, La importancia de los                                                                   conjuntos test y train.
 Predecir el valor de Bitcoin (cuaderno de trabajo): Prophet - Predecir el valor de Bitcoin, Cargar histórico de datos, Entrenar y predecir el modelo.
 Folium (cuaderno de trabajo): Generando mapas con Python, Importando las librerías, Introducción a Folium, Stamen Toner Maps, Stamen Terrain Maps, Mapas con indicadores,                               Mapas de Coropletas
+
+
+17/02/2023
+
+SPACEX2 - 6 - Machine Learning Predicciones (cuaderno de trabajo): Predicción mediante aprendizaje automático, Importar librerias y Definir Funciones Auxiliares, Cargar                                                                    el dataframe.
+SPACEX2 - 5 - Interactive Visual Analytics con Folium (cuaderno de trabajo): Análisis de las ubicaciones de los sitios de lanzamiento con Folium,  Marcar todos los                     lugares de lanzamiento en un mapa, Crear y añadir folium.Circle y folium.Marker para cada sitio de lanzamiento en el mapa del sitio,  Marcar en el mapa los               lanzamientos exitosos/fracasados de cada sitio, Para cada resultado de lanzamiento en el marco de datos spacex_df, añadir un folium.Marker a         marker_cluster,
